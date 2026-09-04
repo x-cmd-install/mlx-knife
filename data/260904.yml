@@ -7,7 +7,7 @@ about:
   head: b2cedb5
   archived: false
   latestVersion: 2.0.7
-  collectedAt: 2026-09-04T19:56:36Z
+  collectedAt: 2026-09-04T20:44:50Z
 timeline:
   created: 2025-08-11
   lastCommit: 2026-08-28
@@ -82,5 +82,53 @@ total:
   openIssue: 19
   commit: 145
 ---
+path: /home/runner/.x-repo/github.com/mzau/mlx-knife
+collectedAt: 2026-09-04T20:44:52Z
+loc:
+  Python:
+    code: 42009
+    comments: 4705
+    blanks: 8759
+    files: 195
+  Json:
+    code: 1071
+    comments: 0
+    blanks: 2
+    files: 6
+  Sh:
+    code: 485
+    comments: 195
+    blanks: 110
+    files: 10
+  Svg:
+    code: 74
+    comments: 18
+    blanks: 18
+    files: 1
+  Toml:
+    code: 72
+    comments: 51
+    blanks: 9
+    files: 1
+  Ini:
+    code: 24
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 15128
+    blanks: 5166
+    files: 55
+  Text:
+    code: 0
+    comments: 10
+    blanks: 2
+    files: 2
+total:
+  code: 46692
+  comments: 20840
+  blanks: 14465
+  files: 271
 ---
 
