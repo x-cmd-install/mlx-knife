@@ -7,7 +7,7 @@ about:
   latestVersion: "2.0.8-beta.1"
   latestRelease: "2.0.7"
   latestPrerelease: "2.0.8-beta.1"
-  collectedAt: 2026-09-11T00:17:35Z
+  collectedAt: 2026-09-11T05:02:47Z
 timeline:
   created: 2025-08-11
   lastCommit: 2026-09-08
@@ -85,7 +85,7 @@ total:
   commit: 159
 ---
 path: /home/runner/.x-repo/github.com/mzau/mlx-knife
-collectedAt: 2026-09-11T00:17:39Z
+collectedAt: 2026-09-11T05:02:51Z
 loc:
   Python:
     code: 43961
