@@ -12,6 +12,18 @@ ollama like cli tool for MLX models on huggingface (pull, rm, list, show, serve 
 x install mlx-knife
 ```
 
+## Code insight
+
+Total: **45,691** lines of code across **224** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 43,961 | 4,736 | 9,208 | 206 |
+| Json | 1,075 | 0 | 2 | 6 |
+| Sh | 485 | 195 | 110 | 10 |
+| Svg | 74 | 18 | 18 | 1 |
+| Toml | 72 | 51 | 9 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/mzau/mlx-knife>
@@ -34,21 +46,12 @@ x install mlx-knife
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 0 | 0 | 2 | 3 | 28 |
-| 90d | 2026-06-12 | 2 | 0 | 0 | 5 | 6 | 66 |
-| 360d | 2025-09-15 | 14 | 1 | 0 | 22 | 13 | 126 |
-
-## Code size
-
-Total: **45,691** lines of code across **224** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 43,961 | 4,736 | 9,208 | 206 |
-| Json | 1,075 | 0 | 2 | 6 |
-| Sh | 485 | 195 | 110 | 10 |
-| Svg | 74 | 18 | 18 | 1 |
-| Toml | 72 | 51 | 9 | 1 |
+| 30d | 2026-08-12 | 1 | 0 | 0 | 2 | 3 | 28 |
+| last60d | 2026-07-13 | 2 | 0 | 0 | 5 | 6 | 55 |
+| 90d | 2026-06-13 | 2 | 0 | 0 | 5 | 6 | 66 |
+| last180d | 2026-03-15 | 4 | 0 | 0 | 10 | 8 | 94 |
+| 360d | 2025-09-16 | 14 | 1 | 0 | 22 | 13 | 126 |
+| last720d | 2024-09-21 | 29 | 1 | 0 | 47 | 18 | 159 |
 
 ## Improve this data
 
@@ -59,4 +62,4 @@ Install metadata for mlx-knife lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:50:14Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:17:43Z._
