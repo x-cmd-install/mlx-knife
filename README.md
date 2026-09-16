@@ -36,22 +36,22 @@ Total: **46,263** lines of code across **228** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 152 · **Forks**: 10 · **Open issues**: 68 · **Contributors**: 3
+- **Stars**: 152 · **Forks**: 10 · **Open issues**: 70 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 48 · **Open issues**: 20 · **Commits**: 170
+- **Releases**: 30 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 48 · **Open issues**: 22 · **Commits**: 170
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 2 | 0 | 0 | 3 | 5 | 0 |
-| last60d | 2026-07-17 | 3 | 0 | 0 | 6 | 8 | 0 |
-| 90d | 2026-06-17 | 3 | 0 | 0 | 6 | 8 | 0 |
-| last180d | 2026-03-19 | 5 | 0 | 0 | 11 | 10 | 0 |
-| 360d | 2025-09-20 | 15 | 1 | 0 | 22 | 15 | 0 |
-| last720d | 2024-09-25 | 30 | 1 | 0 | 48 | 20 | 170 |
+| 30d | 2026-08-17 | 2 | 0 | 0 | 3 | 7 | 39 |
+| last60d | 2026-07-18 | 3 | 0 | 0 | 6 | 10 | 64 |
+| 90d | 2026-06-18 | 3 | 0 | 0 | 6 | 10 | 67 |
+| last180d | 2026-03-20 | 5 | 0 | 0 | 11 | 12 | 105 |
+| 360d | 2025-09-21 | 15 | 1 | 0 | 21 | 17 | 134 |
+| last720d | 2024-09-26 | 30 | 1 | 0 | 48 | 22 | 170 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for mlx-knife lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:19:00Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:12:34Z._
