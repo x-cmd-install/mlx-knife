@@ -4,7 +4,7 @@
 
 ollama like cli tool for MLX models on huggingface (pull, rm, list, show, serve etc.)
 
-[![x-cmd/install — mlx-knife Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mlx-knife.svg?lang=zh)](https://x-cmd.com/install/mlx-knife)
+[![x-cmd/install — mlx-knife Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mlx-knife.svg?lang=zh)](https://x-cmd.com/install/mlx-knife)
 
 ## 安装
 
@@ -46,12 +46,12 @@ x install mlx-knife
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 0 | 0 | 3 | 9 | 33 |
-| last60d | 2026-07-24 | 3 | 0 | 0 | 3 | 12 | 58 |
-| 90d | 2026-06-24 | 3 | 0 | 0 | 6 | 12 | 67 |
-| last180d | 2026-03-26 | 5 | 0 | 0 | 11 | 14 | 105 |
-| 360d | 2025-09-27 | 14 | 1 | 0 | 21 | 19 | 132 |
-| last720d | 2024-10-02 | 30 | 1 | 0 | 48 | 24 | 170 |
+| 30d | 2026-08-24 | 2 | 0 | 0 | 3 | 9 | 33 |
+| last60d | 2026-07-25 | 2 | 0 | 0 | 3 | 12 | 58 |
+| 90d | 2026-06-25 | 3 | 0 | 0 | 6 | 12 | 67 |
+| last180d | 2026-03-27 | 5 | 0 | 0 | 11 | 14 | 105 |
+| 360d | 2025-09-28 | 14 | 1 | 0 | 21 | 19 | 132 |
+| last720d | 2024-10-03 | 30 | 1 | 0 | 48 | 24 | 170 |
 
 ## 改进这些数据
 
@@ -62,4 +62,4 @@ mlx-knife 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:15:08Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:08:41Z._
