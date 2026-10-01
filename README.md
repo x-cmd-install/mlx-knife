@@ -14,15 +14,15 @@ x install mlx-knife
 
 ## Code insight
 
-Total: **46,263** lines of code across **228** files in the top 5 languages.
+Total: **48,985** lines of code across **240** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 44,531 | 4,777 | 9,372 | 210 |
+| Python | 47,219 | 4,974 | 9,955 | 222 |
 | Json | 1,075 | 0 | 2 | 6 |
-| Sh | 485 | 196 | 110 | 10 |
+| Sh | 518 | 207 | 111 | 10 |
+| Toml | 75 | 56 | 10 | 1 |
 | Svg | 74 | 18 | 18 | 1 |
-| Toml | 74 | 51 | 9 | 1 |
 
 ## Source
 
@@ -31,27 +31,35 @@ Total: **46,263** lines of code across **228** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `2.0.8-beta.2` (2026-07-24)
-- **Last commit**: 2026-09-11
+- **Latest**: `2.0.8` (2026-10-01)
+- **Last commit**: 2026-10-01
+- **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 152 · **Forks**: 10 · **Open issues**: 77 · **Contributors**: 3
+- **Stars**: 152 · **Forks**: 11 · **Open issues**: 78 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 48 · **Open issues**: 29 · **Commits**: 170
+- **Releases**: 31 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 49 · **Open issues**: 29 · **Commits**: 218
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 2 | 0 | 0 | 3 | 14 | 22 |
-| last60d | 2026-08-01 | 2 | 0 | 0 | 3 | 17 | 50 |
-| 90d | 2026-07-02 | 3 | 0 | 0 | 6 | 17 | 67 |
-| last180d | 2026-04-03 | 5 | 0 | 0 | 11 | 19 | 105 |
-| 360d | 2025-10-05 | 14 | 1 | 0 | 21 | 24 | 132 |
-| last720d | 2024-10-10 | 30 | 1 | 0 | 48 | 29 | 170 |
+| 30d | 2026-09-01 | 3 | 0 | 0 | 4 | 14 | 70 |
+| last60d | 2026-08-02 | 3 | 0 | 0 | 4 | 17 | 98 |
+| 90d | 2026-07-03 | 4 | 0 | 0 | 7 | 17 | 115 |
+| last180d | 2026-04-04 | 6 | 0 | 0 | 12 | 19 | 153 |
+| 360d | 2025-10-06 | 15 | 1 | 0 | 22 | 24 | 180 |
+| last720d | 2024-10-11 | 31 | 1 | 0 | 49 | 29 | 218 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [mlx_knife-2.0.8-py3-none-any.whl](https://github.com/mzau/mlx-knife/releases/download/2.0.8/mlx_knife-2.0.8-py3-none-any.whl) | 974.4 KiB | `other` |
+| [mlx_knife-2.0.8.tar.gz](https://github.com/mzau/mlx-knife/releases/download/2.0.8/mlx_knife-2.0.8.tar.gz) | 984.8 KiB | `native/unknown` |
 
 ## Improve this data
 
@@ -62,4 +70,4 @@ Install metadata for mlx-knife lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:51:43Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:02:26Z._
