@@ -14,11 +14,11 @@ x install mlx-knife
 
 ## Code insight
 
-Total: **48,997** lines of code across **240** files in the top 5 languages.
+Total: **49,176** lines of code across **241** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 47,231 | 4,975 | 9,957 | 222 |
+| Python | 47,410 | 4,978 | 9,995 | 223 |
 | Json | 1,075 | 0 | 2 | 6 |
 | Sh | 518 | 207 | 111 | 10 |
 | Toml | 75 | 56 | 10 | 1 |
@@ -32,7 +32,7 @@ Total: **48,997** lines of code across **240** files in the top 5 languages.
 ## Release
 
 - **Latest**: `2.0.8` (2026-10-01)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-10-02
 - **Assets in release**: 2
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **48,997** lines of code across **240** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 56 · **Open issues**: 22 · **Commits**: 220
+- **Releases**: 31 · **Merged PRs**: 1 · **Open PRs**: 0 · **Closed issues**: 56 · **Open issues**: 22 · **Commits**: 221
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 3 | 0 | 0 | 6 | 10 | 72 |
-| last60d | 2026-08-03 | 3 | 0 | 0 | 9 | 12 | 100 |
-| 90d | 2026-07-04 | 4 | 0 | 0 | 12 | 12 | 117 |
-| last180d | 2026-04-05 | 6 | 0 | 0 | 18 | 13 | 155 |
-| 360d | 2025-10-07 | 15 | 1 | 0 | 27 | 18 | 182 |
-| last720d | 2024-10-12 | 31 | 1 | 0 | 56 | 22 | 220 |
+| 30d | 2026-09-03 | 3 | 0 | 0 | 6 | 10 | 73 |
+| last60d | 2026-08-04 | 3 | 0 | 0 | 9 | 12 | 101 |
+| 90d | 2026-07-05 | 4 | 0 | 0 | 12 | 12 | 118 |
+| last180d | 2026-04-06 | 6 | 0 | 0 | 18 | 13 | 156 |
+| 360d | 2025-10-08 | 15 | 1 | 0 | 27 | 18 | 183 |
+| last720d | 2024-10-13 | 31 | 1 | 0 | 56 | 22 | 221 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for mlx-knife lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:55:44Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:31:04Z._
