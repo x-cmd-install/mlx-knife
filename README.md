@@ -47,12 +47,12 @@ Total: **49,176** lines of code across **241** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 3 | 0 | 0 | 5 | 8 | 55 |
-| last60d | 2026-08-07 | 3 | 0 | 0 | 8 | 10 | 90 |
-| 90d | 2026-07-08 | 4 | 0 | 0 | 12 | 12 | 118 |
-| last180d | 2026-04-09 | 6 | 0 | 0 | 18 | 13 | 155 |
-| 360d | 2025-10-11 | 15 | 1 | 0 | 27 | 18 | 183 |
-| last720d | 2024-10-16 | 31 | 1 | 0 | 56 | 22 | 221 |
+| 30d | 2026-09-07 | 3 | 0 | 0 | 5 | 8 | 55 |
+| last60d | 2026-08-08 | 3 | 0 | 0 | 8 | 10 | 90 |
+| 90d | 2026-07-09 | 4 | 0 | 0 | 12 | 12 | 118 |
+| last180d | 2026-04-10 | 6 | 0 | 0 | 18 | 13 | 155 |
+| 360d | 2025-10-12 | 15 | 1 | 0 | 27 | 18 | 183 |
+| last720d | 2024-10-17 | 31 | 1 | 0 | 56 | 22 | 221 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for mlx-knife lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:35:41Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:13:21Z._
