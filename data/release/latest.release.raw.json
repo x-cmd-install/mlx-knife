@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1008468,
       "digest": "sha256:8724b4318ccd5724b5dc287048d32199e7ba4a5e4bbc87f19233b26b8762bd52",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-01T02:46:36Z",
       "updated_at": "2026-10-01T02:46:37Z",
       "browser_download_url": "https://github.com/mzau/mlx-knife/releases/download/2.0.8/mlx_knife-2.0.8.tar.gz"
